@@ -1,0 +1,16 @@
+API = Application Programming Interface
+
+REST = Representational State Transfer
+-Architectural style of the web
+-set of guidelines by which we can structure and create API's
+-Rest API's have identifiable properties
+
+What are the properties?
+1.They use resource-base URL's
+When you go to a website let's say football.com/scores -> This will return a webpage which contains JavaScript,HTML and CSS
+
+Similarly when you interact with an API lets say football.com/api/scores, it will return data, maybe in JSON format, and using this data you can use it in your interface!
+
+2.They use HTTP methods : GET,POST,PUT,DELETE
+
+3.They use HTTP status codes!
